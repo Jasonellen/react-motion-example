@@ -1,0 +1,17 @@
+@import 'src/style/mixin';
+.Home{
+    font-size: 40px;
+	.code-box-shape,.queue-anim-demo{
+        background: green;
+        width: 100px;
+        height: 100px;
+    }
+.queue-anim-demo{
+    float: left;
+    margin-left: 10px;
+}
+
+
+
+}
+
